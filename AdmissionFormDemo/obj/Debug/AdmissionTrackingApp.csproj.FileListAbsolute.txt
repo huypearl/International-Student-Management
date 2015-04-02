@@ -1,0 +1,320 @@
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Phado\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+F:\hoc tren truong\semester 4\c# .net\Project lam\23_10\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+F:\Backup\AdmissionFormDemo_daunq_27_10\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+F:\Backup\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+D:\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+D:\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+D:\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+D:\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+D:\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\PHAM DUC THANG\Desktop\Done Dau Huy\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Done Dau Huy Thang\AdmissionFormDemo - Copy\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmImport.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.pdb
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmImport.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\vi-VN\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\en-US\AdmissionTrackingApp.resources.dll
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmCounselingHistory.resources
+C:\Users\Takeshi Fuku\Desktop\backup app before add theme\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmTemp.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csprojResolveAssemblyReference.cache
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.AddNewForm.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailInfo.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DetailView.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.DocumentCollection.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmCounselingHistory.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmImport.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAccountManager.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmAddNewAccount.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmChangePass.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmFee.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmOnArrival.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmTemp.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.frmVisa.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.EditGeneralInfo.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Login.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.MainForm.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Properties.Resources.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.vi-VN.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.Languages.Languages.en-US.resources
+F:\Backup\newest\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.GenerateResource.Cache
+F:\Backup\newest - Copy - Copy - Copy\Pha do\AdmissionFormDemo\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+F:\Backup\newest - Copy - Copy - Copy\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+F:\Backup\newest - Copy - Copy - Copy\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Backup\newest - Copy - Copy - Copy\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+F:\Backup\newest - Copy - Copy - Copy\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+F:\Backup\newest - Copy - Copy - Copy\Pha do\AdmissionFormDemo\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+F:\Code\C#\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+F:\Code\C#\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+F:\Code\C#\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Code\C#\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+F:\Code\C#\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+F:\Code\C#\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
+E:\Csharp\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\bin\Debug\AdmissionTrackingApp.exe.config
+E:\Csharp\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\Interop.AcroPDFLib.dll
+E:\Csharp\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Csharp\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.csproj.ResolveComReference.cache
+E:\Csharp\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.exe
+E:\Csharp\Project\Quan Ly Sinh Vien Dai Han\AdmissionFormDemo\obj\Debug\AdmissionTrackingApp.pdb
